@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+
+.pokemonTitle{
+  background-color: gray;
+  color: aliceblue;
+}
+
+.pokeList{
+  background-color: bisque;
+  font-style: italic;
+  text-transform: capitalize;
+}
